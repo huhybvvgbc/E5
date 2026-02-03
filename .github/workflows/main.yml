@@ -1,4 +1,4 @@
-name: Check Microsoft E5 26
+name: Check Microsoft E5 2602
 
 on:
   schedule:
