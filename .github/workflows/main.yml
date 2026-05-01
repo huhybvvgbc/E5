@@ -3,7 +3,7 @@ name: Check Microsoft E5 2605
 on:
   schedule:
     # 每小时第 3 分钟运行一次
-    - cron: '3 */1 * * *'
+    - cron: '3 */6 * * *'
 
   workflow_dispatch:
 
